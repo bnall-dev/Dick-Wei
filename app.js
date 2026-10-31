@@ -207,5 +207,5 @@ function handleLoadGame() {
     )
 }
 
-// Mount — React 18+ uses createRoot instead of the legacy ReactDOM.render()
+// Mount — React 18+ uses c reateRoot instead of the legacy ReactDOM.render()
 ReactDOM.createRoot(document.getElementById('root')).render(<Game />);
